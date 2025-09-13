@@ -2,7 +2,7 @@
 #include <iomanip>
 using namespace std;
 //This program stores data on student ID numbers and their respective grades. It sorts their grades and calculates the average.
-//Author: Maria Psomas
+//Author: Badtothebunny
 //First I created the swap function that will be called in the bubblesort function.
 void swap (int &a,int &b)
 {
@@ -89,3 +89,4 @@ int main(int argc, char** argv)
 	}
 }
 //Thank you for teaching me!
+
